@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "253150427081",
+    "project_id": "languagegeekandroid",
+    "storage_bucket": "languagegeekandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253150427081:android:869379753f38ebe76d9a18",
+        "android_client_info": {
+          "package_name": "com.example.languagegeek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253150427081-0oh4m418kfotd32k54mc747rhkqo52kv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPdhIbHcCbO_p0uD3AE9RyF8VCL51uqog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "253150427081-0oh4m418kfotd32k54mc747rhkqo52kv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
